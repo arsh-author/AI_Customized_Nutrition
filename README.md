@@ -2,7 +2,7 @@
 
 <h1 align="center">AI-BASED CUSTOMIZED NUTRITION FOR EVERY 
 LIFESTYLE</h1>
-<div align= "center"><img src="Assets/logo_img1.jpg" />
+<div align= "center">
   <h4>A nutrition recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
